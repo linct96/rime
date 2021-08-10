@@ -7,9 +7,9 @@ patch:
     good_old_caps_lock: true # capslock 键切换英文并输出大写
     switch_key: # 输入法中英文状态快捷键
       Caps_Lock: commit_code
-        Control_L: noop
-        Control_R: noop
-        # 按下左 shift 英文字符直接上屏，不需要再次回车，输入法保持英文状态
-        Shift_L: commit_code
-        Shift_R: noop
+      Control_L: noop
+      Control_R: noop
+      # 按下左 shift 英文字符直接上屏，不需要再次回车，输入法保持英文状态
+      Shift_L: commit_code
+      Shift_R: noop
     
