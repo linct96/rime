@@ -1,2 +1,5 @@
 # rime
-rime输入法配置
+
+rime 输入法配置
+
+## macos squirrel
